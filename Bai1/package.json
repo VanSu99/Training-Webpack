@@ -8,10 +8,6 @@
     "start": "webpack serve --mode development",
     "build": "webpack --mode production"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://duthanhduoc:khongmatkhau101@github.com/duthanhduoc/Training-Webpack.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
